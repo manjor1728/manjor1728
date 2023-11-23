@@ -30,7 +30,6 @@
 
 ### Estudando neste momento:
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=footer"/>
